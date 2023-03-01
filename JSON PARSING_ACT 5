@@ -1,0 +1,16 @@
+{
+  "student": [
+    {
+      "Name": "MYLENE A. DEPIGAN",
+      "Age": 20,
+      "Quotes": "Spread love everywhere you go.Let no one ever come to you without leaving happier."
+    }
+  ],
+  "student_info": [
+    {
+      "Class Section": "BSIT 3C",
+      "Section Code": "T239",
+      "Buksu Email": "2001102542@student.buksu.edu.ph"
+    }
+  ]
+}
